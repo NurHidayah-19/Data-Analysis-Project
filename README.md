@@ -21,7 +21,8 @@ To understand their customers’ needs and grow more sales for the next year.
 •	Men’s Street Footwear is the product purchased more\
 •	In-Store method got the highest sales\
 •	New York, California and Florida are the top 3 States that contribute to the sales\
-•	West Gear, Foot Locker and Sports Direct are the top 3 retailers that contribute to the sales\\
+•	West Gear, Foot Locker and Sports Direct are the top 3 retailers that contribute to the sales\
+
 By year 2020, men’s street footwear became the highest sales, in-store method is the most people use to buy the stuff. West region and west gear retailer also became the top contribution to the sales.\
 While in 2021, the most contributors also same with the previous year. The only retailer changes which is from west gear to foot locker.
 ## Final Conclusion:
