@@ -14,7 +14,7 @@ To understand their customers’ needs and grow more sales for the next year.
 - <a href="https://github.com/NurHidayah-19/Data-Analysis-Project/blob/main/Adidas_Sales2020.png">Dashboard2020<\a>
 - <a href="https://github.com/NurHidayah-19/Data-Analysis-Project/blob/main/Adidas_Sales2021.png">Dashboard2021<\a>
 ## Dashboard:
-- <a href="https://github.com/NurHidayah-19/Data-Analysis-Project/blob/main/Adidas_SalesBoth.png"><\a>
+- <a href="https://github.com/NurHidayah-19/Data-Analysis-Project/blob/main/Adidas_SalesBoth.png">Dashboard<\a>
 ## Project Insight:
 •	2021 more purchased than 2020\
 •	April 2020, and July and December 2021 got the highest sales\
