@@ -2,7 +2,7 @@
 ## Project Objective:
 To understand their customers’ needs and grow more sales for the next year.
 ## Dataset used: 
-- <a href="https://github.com/NurHidayah-19/Data-Analysis-Project/blob/main/Adidas_Sales.xlsx"><\a>
+- <a href="https://github.com/NurHidayah-19/Data-Analysis-Project/blob/main/Adidas_Sales.xlsx">Dataset<\a>
 ## Question (KPIs):
 •	Compare the sales by year\
 •	Which month got the highest sales\
